@@ -1,0 +1,36 @@
+div {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 16px;
+      width: 700px;
+      margin: 20px auto;
+}
+
+h1,
+h3 {
+      background-color: aliceblue;
+}
+
+h1 {
+      color: brown;
+      text-align: center;
+      font-size: 25px;
+      padding: 15px;
+}
+
+ul {
+      background-color: beige;
+      color: chocolate;
+}
+
+ol {
+      color: brown;
+      background-color: blanchedalmond;
+}
+
+span {
+      background-color: aquamarine;
+}
+
+img {
+      margin: auto;
+}
